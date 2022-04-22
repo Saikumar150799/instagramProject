@@ -1,0 +1,6 @@
+export const actionTypes={
+    SET_POSTS:"SET_POSTS",
+    LOGGED_USER:"GET_USERS",
+    LOGGED_IN:"LOGGED_IN",
+    ACTIVE_USER:"ACTIVE_USER"
+}
